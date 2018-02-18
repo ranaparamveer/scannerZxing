@@ -1,0 +1,1 @@
+include ':app', ':zxinglibcore', ':core-3.3.2'
